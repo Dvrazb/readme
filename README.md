@@ -1,2 +1,4 @@
-# readme
-Hi there! 😎
+# Hi there! 😎
+- Currunly leaning 'Machine Learning' 👨‍🎓
+- Snowboarding 🏂
+- Car lover 🏎
